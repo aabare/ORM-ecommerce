@@ -17,7 +17,9 @@
   You can use this app by opening Insomnia and searching by category, product, and tags. This will also allow you to update, create, and delete any categories, products, or tags you wish.
   
   Installation Video: https://watch.screencastify.com/v/LOSTznJzO9MekWg5dB04
+  
   Usage Video with Insomnia: https://watch.screencastify.com/v/bPPAUrR7eiOqTRgZexGq
+  
   ## License 
   This project is license under MIT
   ## Contributing 
